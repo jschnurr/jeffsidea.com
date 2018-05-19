@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Fly your project team in formation
 categories: [projects, leadership]
 published: true

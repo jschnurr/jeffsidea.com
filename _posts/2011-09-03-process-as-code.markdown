@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Process as code
 published: true
 ---

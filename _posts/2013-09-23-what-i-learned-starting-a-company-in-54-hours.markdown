@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What I learned starting a company in 54 hours
 categories: [start-up, hackathon]
 published: true

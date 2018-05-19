@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Shut up and build!
 published: true
 ---

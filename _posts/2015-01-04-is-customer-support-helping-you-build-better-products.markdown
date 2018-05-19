@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Is Customer Support helping you build better products?
 categories: [product, requirements]
 published: true

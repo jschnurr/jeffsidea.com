@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Building a rock-star project team
 categories: [projects, teams]
 published: true

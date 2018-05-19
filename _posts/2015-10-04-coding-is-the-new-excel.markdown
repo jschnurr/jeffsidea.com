@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coding is the new Excel
 categories: [coding, skills]
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 5 ways IT can think like the business
 categories: [IT, business]
 published: true

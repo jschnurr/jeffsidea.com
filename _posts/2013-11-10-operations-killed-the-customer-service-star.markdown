@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Operations killed the Customer Service star
 categories: [social, support, operations]
 published: true

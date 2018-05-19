@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 12 steps to converting a customer crisis into loyalty
 categories: [problem solving, crisis, communication]
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Start-up power
 published: true
 ---

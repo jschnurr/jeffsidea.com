@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 3 ways that Hadoop can improve customer service
 categories: [support, hadoop]
 published: true

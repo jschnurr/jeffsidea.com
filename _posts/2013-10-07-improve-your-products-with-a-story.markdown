@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Improve your products with a story
 categories: [support, product]
 published: true

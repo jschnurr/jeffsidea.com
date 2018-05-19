@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 7 principles of stuff-raising
 categories: [fundraising]
 published: true

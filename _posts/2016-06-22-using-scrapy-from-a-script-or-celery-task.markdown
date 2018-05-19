@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Using Scrapy from a script or celery task
 categories: [python, scrapy, scrapyscript, celery]
 published: true
