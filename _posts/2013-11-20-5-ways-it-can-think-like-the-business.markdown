@@ -1,7 +1,8 @@
 ---
 title: 5 ways IT can think like the business
-categories: [IT, business]
 published: true
+tags: [IT, business partner]
+categories: [technology]
 ---
 
 "What will it take to get you into this new ERP software"? As an IT
@@ -10,9 +11,9 @@ sound like used car salesman.
 
 For years the industry has aspired to the status of 'business partner'.
 We want the CIO at the boardroom table, enabling transformative
-business models. We want to be consulted on issues of strategy, and to 
-use our creative problem solving skills in a broader business context. 
-We believe we're capable, and maybe even entitled; after all, it's a 
+business models. We want to be consulted on issues of strategy, and to
+use our creative problem solving skills in a broader business context.
+We believe we're capable, and maybe even entitled; after all, it's a
 digital world.
 
 So how do we get there?
@@ -32,7 +33,7 @@ mark.
 Here's what the business expects, and how you can step up to be the
 business partner you want to be.
 
-1.  ####"Do what I mean, not what I say."
+1.  Do what I mean, not what I say.
 
     It's a practical reality that most people are not experts at the
     logical decomposition of their needs into specifics that they can
@@ -46,7 +47,7 @@ business partner you want to be.
     to seek clarification or push back when the words and their universe
     don't align.
 
-2.  #### "Use reasonable judgement to fill in the gaps"
+2.  Use reasonable judgement to fill in the gaps
 
     Everybody carries around their own view of what should be "obvious",
     based on their own background. As the business partner we claim we
@@ -58,7 +59,7 @@ business partner you want to be.
     obvious", but they will happily nod in agreement when it's played
     back to them for confirmation.
 
-3.  #### "You can solve this with people, process or technology"
+3.  You can solve this with people, process or technology
 
     Despite the fact we're IT, a true business partner would be open to
     a non-technology outcome to a business problem. Sometimes, the best
@@ -71,7 +72,7 @@ business partner you want to be.
     value with manual processing, followed by less expensive automation
     later.
 
-4.  #### "Show me, don't tell me"
+4.  Show me, don't tell me
 
     There is a reason why landscapers use 3D software to demonstrate
     what your future yard could look like, or why architects build scale
@@ -90,7 +91,7 @@ business partner you want to be.
     the architecture jargon if you want the business to see you in a
     suit, and not a Star Trek uniform.
 
-5.  #### "Market forces apply to you too"
+5.  Market forces apply to you too
 
     The business moves fast. Competitors get to vote, and the planning
     assumptions don't always pan out. For IT and our notoriously long

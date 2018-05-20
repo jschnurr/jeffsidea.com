@@ -1,6 +1,8 @@
 ---
 title: Start-up power
 published: true
+tags: [intrapreneur, start-ups]
+categories: [innovation]
 ---
 
 Lately, I've had the good fortune to hang out with some real start-up

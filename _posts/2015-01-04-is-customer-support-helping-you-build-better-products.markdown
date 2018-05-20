@@ -1,7 +1,8 @@
 ---
 title: Is Customer Support helping you build better products?
-categories: [product, requirements]
 published: true
+tags: [product management, requirements, support]
+categories: [services]
 ---
 
 ![REP Cycle]({{ "/assets/images/REP-Cycle.png" | absolute_url }})

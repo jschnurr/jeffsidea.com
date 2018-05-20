@@ -1,7 +1,8 @@
 ---
 title: Improve your products with a story
-categories: [support, product]
 published: true
+tags: [customer journey mapping, cx, product management]
+categories: [services]
 ---
 
 Sometimes, product quality problems just look like numbers. 

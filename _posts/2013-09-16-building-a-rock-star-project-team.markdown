@@ -1,7 +1,8 @@
 ---
 title: Building a rock-star project team
-categories: [projects, teams]
 published: true
+tags: [project management, teamwork]
+categories: [leadership]
 ---
 
 ![hockeynet]({{ "/assets/images/hockeynet-e1407082102330.gif" | absolute_url }}){: .align-right}

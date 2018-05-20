@@ -1,10 +1,11 @@
 ---
 title: 12 steps to converting a customer crisis into loyalty
-categories: [problem solving, crisis, communication]
+tags: [problem solving, crisis management, communication]
+categories: [services]
 published: true
 ---
 
-### Your customer is furious.
+## Your customer is furious.
 
 They have a critical business dependency on your product, and some
 glitch has degraded it or taken it completely out of service.   They
@@ -31,7 +32,7 @@ Let's examine some of the best practices, developed over years of
 technical support incidents with Fortune 500 customers, that can truly
 impact the outcome of an otherwise bad situation.
 
-### Under fire - the 12 behaviors that prove you care
+## Under fire - the 12 behaviors that prove you care
 
 ### 1. It's our problem
 
@@ -40,7 +41,7 @@ anywhere - in your software, another vendor's software, the
 configuration, the integrations - perhaps even caused by external
 factors like network latency or unusual demand profiles.   Regardless of
 what technology component is to blame, remember that it's not the
-*technology* that has a problem, it's your *customer* that has a
+_technology_ that has a problem, it's your _customer_ that has a
 problem.
 
 Your role is to step up and assume ownership regardless of where the
@@ -107,8 +108,8 @@ discreet channels.
 
 > Technical and business teams need different information.
 
-The *technical channel* is detail oriented, fluid, and 24/7. The
-*business channel* is high level roll-up, periodic briefings, and
+The `technical channel` is detail oriented, fluid, and 24/7. The
+`business channel` is high level roll-up, periodic briefings, and
 oriented around impact assessment & timeliness. For obvious reasons,
 these channels demand different resource allocation; it’s rare to find
 one person who can manage both channels well.
@@ -197,7 +198,7 @@ perceived as not "stepping up", and it can look like a stall tactic.
 
 Own this - don't ask the customer unless there is no other way.  It will
 make them more receptive to responding promptly & positively to the
-requests for help that you *do* make.
+requests for help that you `do` make.
 
 ### 11. Lose some sleep
 
@@ -226,11 +227,13 @@ process.
 
 Commitment to a debrief is a useful tactical tool during the crisis as
 well, allowing for complaints or unhelpful observations by frustrated
-people to be channeled into a transparent process *after* we’ve solved
+people to be channeled into a transparent process _after_ we’ve solved
 the problem. It sends the message that you’re willing to listen, just
-not right now. 
+not right now.
 
-***Technical Support is not for the faint of heart.***  For those
+---
+
+**_Technical Support is not for the faint of heart._**  For those
 of you supporting enterprise customers on mission critical systems, I
 hope that you find this information helpful.  For as much as it may not
 feel that way at the time, these events really do cement a high-trust,

@@ -1,7 +1,8 @@
 ---
 title: 3 ways that Hadoop can improve customer service
-categories: [support, hadoop]
 published: true
+tags: [support, hadoop]
+categories: [technology]
 ---
 
 I've recently started to learn

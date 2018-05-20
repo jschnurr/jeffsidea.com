@@ -1,6 +1,8 @@
 ---
 title: One track mind
 published: true
+tags: [tunnel vision, perspective]
+categories: [leadership]
 ---
 
 I think most of us are vulnerable to viewing the world through a

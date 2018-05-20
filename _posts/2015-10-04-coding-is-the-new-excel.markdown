@@ -1,7 +1,8 @@
 ---
 title: Coding is the new Excel
-categories: [coding, skills]
 published: true
+tags: [coding, excel]
+categories: [technology]
 ---
 
 Data is `everywhere`. We're surrounded by machines that track, measure,

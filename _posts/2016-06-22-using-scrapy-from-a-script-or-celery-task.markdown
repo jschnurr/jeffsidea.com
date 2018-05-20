@@ -1,7 +1,8 @@
 ---
 title: Using Scrapy from a script or celery task
-categories: [python, scrapy, scrapyscript, celery]
 published: true
+tags: [python, scrapy, scrapyscript, celery]
+categories: [technology]
 ---
 
 [Scrapy](http://scrapy.org) is a web scraping framework for Python. If you followed

@@ -1,7 +1,8 @@
 ---
 title: What I learned starting a company in 54 hours
-categories: [start-up, hackathon]
 published: true
+tags: [start-ups, hackathon]
+categories: [innovation]
 ---
 
 ![startup weekend]({{ "/assets/images/startupweekend/startup_weekend-300x150.png" | absolute_url }}){: .align-right}

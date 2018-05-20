@@ -1,7 +1,8 @@
 ---
 title: 7 principles of stuff-raising
-categories: [fundraising]
 published: true
+tags: [fundraising]
+categories: [community]
 ---
 
 ![Red Canoe]({{ "/assets/images/CedarRedCanoe.jpg" | absolute_url }})
