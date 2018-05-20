@@ -1,5 +1,6 @@
 ---
 title: 3 ways that Hadoop can improve customer service
+excerpt: "Like many technology professionals, I've grown up wrangling data with Python scripts, SQL databases and Excel. However, modern datasets make that process feel quaint."
 published: true
 tags: [support, hadoop]
 categories: [technology]

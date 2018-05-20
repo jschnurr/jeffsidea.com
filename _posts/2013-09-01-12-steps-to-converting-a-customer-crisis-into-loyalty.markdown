@@ -1,5 +1,6 @@
 ---
 title: 12 steps to converting a customer crisis into loyalty
+excerpt: "After years of managing critical IT support incidents for the Fortune 500, these are the lessons learned - the key behaviors that drive increased loyalty from a bad situation."
 tags: [problem solving, crisis management, communication]
 categories: [services]
 published: true
