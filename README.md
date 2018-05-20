@@ -7,6 +7,9 @@
 # Publishing
 - push to repo.  Github pages runs Jekyll and updates the site.
 
+# Formatting
+- excerpts are text up to first empty line by default. To override, add `excerpt` to front matter, or use `excerpt_separator: "<!--more-->"`.
+
 # Category taxonomy
 - technology
 - innovation

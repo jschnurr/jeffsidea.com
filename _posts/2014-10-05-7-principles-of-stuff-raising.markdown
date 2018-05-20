@@ -1,15 +1,18 @@
 ---
 title: 7 principles of stuff-raising
+excerpt: "They call it an Impact Tour. You board a yellow school bus, which takes you to one of the many places funded in part by the United Way."
 published: true
 tags: [fundraising]
 categories: [community]
 header:
   image: /assets/images/CedarRedCanoe.jpg
   image_description: "Red canoe"
+toc: true
 ---
 
-<!-- ![Red Canoe]({{ "/assets/images/CedarRedCanoe.jpg" | absolute_url }}) -->
-#### They call it an Impact Tour.
+## An Experience
+
+> They call it an Impact Tour.
 
 You board a yellow school bus, which takes you to one of the many places
 funded in part by the [United Way](http://www.unitedway.ca/). Today, our
@@ -37,7 +40,7 @@ basketball court. They feed 96 kids in here, three times a day. In the
 back, a small commercial kitchen is in need to repair, something they
 have planned for this winter.
 
-![Stevensons Childrens Camp Sign]({{ "/assets/images/stevenson-sign.png" | absolute_url }})
+![Stevensons Childrens Camp Sign]({{ "/assets/images/stevenson-sign.png" | absolute_url }}){: .align-right}
 Jason tells us more about the campers, who aren't here on this warm
 September day. They're kids between 7 and 10 who, for whatever reason,
 face difficult life challenges and wouldn't otherwise have the
@@ -123,7 +126,7 @@ Impact Tour, indeed.
 
 ---
 
-#### Beyond fundraising
+## Beyond fundraising
 
 If you've read this far, you might be wondering what this story has to
 do with technology, and why it appears in this blog. Like many of you,
@@ -155,62 +158,71 @@ accelerate it, personalize it, make it more adaptive and responsive. A
 way for Jason to express a need for 'stuff', and have a willing
 community fulfil it, just like that. Call it 'stuff-raising'.
 
+## Design Principles
+
 As I think about it, a system like this would operate on 7 key design
 principles.
 
-1.  `Specific.`
-    Needs should be expressed in a modular, highly specific way. Think
-    about how you receive birthday gift recommendations for your
-    friends' kids; 'Bauer Vapor X80 Hockey Shoulder Pads' is much more
-    specific than 'he's into hockey', making it more actionable with
-    less cognitive load. We need our team of charitable givers to be
-    handed a shopping list.
+### 1. Specific
 
-2.  `Personalized.`
-    As someone who has 'joined the team', my profile should help set
-    some parameters around how, where and when I'm able to help. There
-    may be causes I favor, price points I can bear, locations I spend
-    time in, or a category of goods I get special deals on. This data,
-    when joined with what we can track of actual behavior, becomes a way
-    to personalize how the individual is engaged, and avoid being
-    spammy.
+Needs should be expressed in a modular, highly specific way. Think
+about how you receive birthday gift recommendations for your
+friends' kids; 'Bauer Vapor X80 Hockey Shoulder Pads' is much more
+specific than 'he's into hockey', making it more actionable with
+less cognitive load. We need our team of charitable givers to be
+handed a shopping list.
 
-3.  `Contextual.`
-    Foursquare knows I'm downtown, and recommends the Pad Thai across
-    the street. This location-based, contextual trigger can be highly
-    effective, prompting spontaneous action. Jason's call for the Dora
-    t-shirt should pop when I'm at the mall, or on the first cold day of
-    fall when I'm packing up the summer clothes.
+### 2. Personalized
 
-4.  `Gamified.`
-    People do silly things for point or badges. Perhaps it's part social
-    proof - evidence of your good nature and contribution to society -
-    or a small competitive streak. Whatever the reason, your
-    contributions should be tallied and broadcast in a way that creates
-    status and allows for extrinsic gratification.
+As someone who has 'joined the team', my profile should help set
+some parameters around how, where and when I'm able to help. There
+may be causes I favor, price points I can bear, locations I spend
+time in, or a category of goods I get special deals on. This data,
+when joined with what we can track of actual behavior, becomes a way
+to personalize how the individual is engaged, and avoid being
+spammy.
 
-5.  `Predictive.`
-    Jason will need some help to pull together the shopping list. Using
-    data from past experience and similar requests, the system predicts
-    demand, lead times and availability of recurring supplies, and makes
-    recommendations for Jason to accept. After a while, he's just
-    dealing with exceptions.
+### 3. Contextual
 
-6.  `Closed loop.`
-    A feedback loop should help validate that my contribution mattered,
-    and offer a place to share qualitative information or dialogue. If I
-    bought a bag of potatoes, I'd love to know that the kids "liked" the
-    Tuesday night dinner.
+Foursquare knows I'm downtown, and recommends the Pad Thai across
+the street. This location-based, contextual trigger can be highly
+effective, prompting spontaneous action. Jason's call for the Dora
+t-shirt should pop when I'm at the mall, or on the first cold day of
+fall when I'm packing up the summer clothes.
 
-7.  `Fun.`
-    The whole experience should be fast, simple, well-branded, and fun.
-    Heck, it might even be a little quirky and make me feel like I'm
-    part of this little club. The infrastructure makes it easy to
-    drop-off and transport goods, minimizing inconvenience and working
-    into my daily flow. I help, I feel good, and I wasn't
-    inconvenienced, isn't that fun?
+### 4. Gamified
 
-#### Making it happen
+People do silly things for point or badges. Perhaps it's part social
+proof - evidence of your good nature and contribution to society -
+or a small competitive streak. Whatever the reason, your
+contributions should be tallied and broadcast in a way that creates
+status and allows for extrinsic gratification.
+
+### 5. Predictive
+
+Jason will need some help to pull together the shopping list. Using
+data from past experience and similar requests, the system predicts
+demand, lead times and availability of recurring supplies, and makes
+recommendations for Jason to accept. After a while, he's just
+dealing with exceptions.
+
+### 6. Closed loop
+
+A feedback loop should help validate that my contribution mattered,
+and offer a place to share qualitative information or dialogue. If I
+bought a bag of potatoes, I'd love to know that the kids "liked" the
+Tuesday night dinner.
+
+### 7. Fun
+
+The whole experience should be fast, simple, well-branded, and fun.
+Heck, it might even be a little quirky and make me feel like I'm
+part of this little club. The infrastructure makes it easy to
+drop-off and transport goods, minimizing inconvenience and working
+into my daily flow. I help, I feel good, and I wasn't
+inconvenienced, isn't that fun?
+
+## Making it happen
 
 Who would build something like this? Has it already been done? Is it too
 crazy - just the product the Silicon Valley philosophy that engineering
