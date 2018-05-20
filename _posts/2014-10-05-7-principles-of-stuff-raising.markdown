@@ -3,9 +3,12 @@ title: 7 principles of stuff-raising
 published: true
 tags: [fundraising]
 categories: [community]
+header:
+  image: /assets/images/CedarRedCanoe.jpg
+  image_description: "Red canoe"
 ---
 
-![Red Canoe]({{ "/assets/images/CedarRedCanoe.jpg" | absolute_url }})
+<!-- ![Red Canoe]({{ "/assets/images/CedarRedCanoe.jpg" | absolute_url }}) -->
 #### They call it an Impact Tour.
 
 You board a yellow school bus, which takes you to one of the many places
