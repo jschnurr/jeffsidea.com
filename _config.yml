@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeff Schnurr"
-  avatar           : "/assets/images/jschnurr-profile-300x200.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Digital Innovation and Technology Executive. Emerging tech and start-up advocate. Curious problem solver."
   location         : "Waterloo, Canada"
   email            : "jschnurr@gmail.com"
