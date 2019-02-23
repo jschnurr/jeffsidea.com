@@ -1,8 +1,7 @@
 ---
+layout: post
 title: 12 steps to converting a customer crisis into loyalty
-excerpt: "After years of managing critical IT support incidents for the Fortune 500, these are the lessons learned - the key behaviors that drive increased loyalty from a bad situation."
-tags: [problem solving, crisis management, communication]
-categories: [services]
+subtitle: "After years of managing critical IT support incidents for the Fortune 500, these are the lessons learned - the key behaviors that drive increased loyalty from a bad situation."
 published: true
 ---
 
@@ -20,6 +19,8 @@ junkie, it's a fun ride - but your customer, and your business, won't
 see it that way - there is an erosion of confidence, a risk to the
 account, a blemish on your corporate image.
 
+<img class="img-fluid rounded float-right" src="{{ "/img/posts/frustration1-300x296.gif" | absolute_url }}" alt="frustration1">
+
 However, in all crisis there is opportunity.
 
 In this case, you're set to prove that your team not only has the
@@ -28,7 +29,6 @@ understand what the customer needs, and your empathy is genuine.  In
 fact, you're about to prove how committed you are to this customer, and
 just how much they can count on you when there is a problem.
 
-![frustration1]({{ "/assets/images/frustration1-300x296.gif" | absolute_url }}){: .align-right}
 Let's examine some of the best practices, developed over years of
 technical support incidents with Fortune 500 customers, that can truly
 impact the outcome of an otherwise bad situation.

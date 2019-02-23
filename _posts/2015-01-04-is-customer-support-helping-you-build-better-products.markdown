@@ -1,12 +1,11 @@
 ---
+layout: post
 title: "Is Customer Support helping you build better products?"
-excerpt: "A process for converting customer support demand into features and fixes your customers will love."
+subtitle: "A process for converting customer support demand into features and fixes your customers will love."
 published: true
-tags: [product management, requirements, support]
-categories: [services]
 ---
 
-![REP Cycle]({{ "/assets/images/REP-Cycle.png" | absolute_url }})
+<img class="img-fluid" src="{{ "/img/posts/REP-Cycle.png" | absolute_url }}" alt="REP Cycle">
 
 Every department needs to think about value creation, and how to make
 the company stronger. In Customer Support, value is created when a

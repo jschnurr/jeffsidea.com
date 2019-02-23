@@ -1,8 +1,7 @@
 ---
+layout: post
 title: 5 ways IT can think like the business
 published: true
-tags: [IT, business partner]
-categories: [technology]
 ---
 
 "What will it take to get you into this new ERP software"? As an IT

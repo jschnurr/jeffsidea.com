@@ -1,18 +1,12 @@
 ---
+layout: post
 title: 7 principles of stuff-raising
-excerpt: "They call it an Impact Tour. You board a yellow school bus, which takes you to one of the many places funded in part by the United Way."
+subtitle: "They call it an Impact Tour. You board a yellow school bus, which takes you to one of the many places funded in part by the United Way."
 published: true
-tags: [fundraising]
-categories: [community]
-header:
-  image: /assets/images/CedarRedCanoe.jpg
-  image_description: "Red canoe"
-toc: true
+background: /img/posts//CedarRedCanoe.jpg
 ---
 
-## An Experience
-
-> They call it an Impact Tour.
+<h2> They call it an Impact Tour. </h2>
 
 You board a yellow school bus, which takes you to one of the many places
 funded in part by the [United Way](http://www.unitedway.ca/). Today, our
@@ -40,7 +34,8 @@ basketball court. They feed 96 kids in here, three times a day. In the
 back, a small commercial kitchen is in need to repair, something they
 have planned for this winter.
 
-![Stevensons Childrens Camp Sign]({{ "/assets/images/stevenson-sign.png" | absolute_url }}){: .align-right}
+<img class="img-fluid rounded float-right" src="{{ "/img/posts/stevenson-sign.png" | absolute_url }}" alt="Stevensons Childrens Camp Sign">
+
 Jason tells us more about the campers, who aren't here on this warm
 September day. They're kids between 7 and 10 who, for whatever reason,
 face difficult life challenges and wouldn't otherwise have the

@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Process as code
 published: true
-tags: [project management, process]
-categories: [leadership]
 ---
 
 Over the past year, my team has been developing a process to link dozens

@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Shut up and build!
 published: true
-tags: [rapid prototyping]
-categories: [innovation]
+comments: true
 ---
 
 Do you have a Mr. or Ms. *No* in your company? You know, the one who has an opinion and

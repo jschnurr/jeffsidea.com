@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Using Scrapy from a script or celery task
 published: true
-tags: [python, scrapy, scrapyscript, celery]
-categories: [technology]
 ---
 
 [Scrapy](http://scrapy.org) is a web scraping framework for Python. If you followed
@@ -62,7 +61,6 @@ from scrapy.settings import Settings
 settings = Settings()
 settings.set('USER_AGENT',
 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.86 Safari/537.36')
-
 ```
 
 ### Jobs
@@ -93,12 +91,11 @@ Optionally, you can supply settings. Since we've defined them, we'll pass them i
 
 ```python
 Processor(settings=settings).run([basicjob, jobwithdata])
+
+#    [{'mantra': None, 'title': ['Welcome to Python.org']},
+#     {'mantra': 'Simple is better than complex.',
+#      'title': ['Welcome to Python.org']}]
 ```
-
-    [{'mantra': None, 'title': ['Welcome to Python.org']},
-     {'mantra': 'Simple is better than complex.',
-      'title': ['Welcome to Python.org']}]
-
 
 ### How does it work?
 scrapyscript uses a fork of the Multiprocessing library to create a process, launch a twisted reactor,

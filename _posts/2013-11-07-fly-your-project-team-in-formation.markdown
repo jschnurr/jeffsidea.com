@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Fly your project team in formation
 published: true
-tags: [project management, planning]
-categories: [leadership]
 ---
 
 The project is off the rails. There goal was to migrate a service from

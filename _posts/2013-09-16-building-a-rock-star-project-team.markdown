@@ -1,11 +1,11 @@
 ---
+layout: post
 title: Building a rock-star project team
 published: true
-tags: [project management, teamwork]
-categories: [leadership]
 ---
 
-![hockeynet]({{ "/assets/images/hockeynet-e1407082102330.gif" | absolute_url }}){: .align-right}
+![hockeynet]({{ "/img/posts/hockeynet-e1407082102330.gif" | absolute_url }}){: .align-right}
+
 In professional hockey, teams have a General Manager (GM) and a Coach
 charged with one mission - put a team on the ice that is both capable
 and driven to deliver a truly exceptional outcome - the Stanley Cup.

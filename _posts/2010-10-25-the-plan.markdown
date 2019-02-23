@@ -1,8 +1,7 @@
 ---
+layout: post
 title: The Plan
 published: true
-tags: [planning]
-categories: [leadership]
 ---
 
 To get a result in a matter of even modest complexity, you need a plan.

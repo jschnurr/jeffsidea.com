@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Operations killed the Customer Service star
 published: true
-tags: [social, support, operations]
-categories: [services]
 ---
 
 For many companies, customer service is purely a numbers game. Average

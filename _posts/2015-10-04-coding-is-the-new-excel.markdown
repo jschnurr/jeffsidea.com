@@ -1,8 +1,7 @@
 ---
+layout: post
 title: Coding is the new Excel
 published: true
-tags: [coding, excel]
-categories: [technology]
 ---
 
 Data is `everywhere`. We're surrounded by machines that track, measure,
@@ -19,7 +18,7 @@ such an ability has become an expected norm among managers.
 
 Today, the *big data* that surrounds us can feel as impenetrable as
 that finance data once was. It's too unstructured for Excel, and too
-dispersed to provide an integrated view. So what does a manager do? 
+dispersed to provide an integrated view. So what does a manager do?
 They call IT, and await summarized Excel sheets on which they can base
 decisions. It's like 1985, but IT are the accountants.
 

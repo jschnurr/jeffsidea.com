@@ -1,11 +1,10 @@
 ---
+layout: post
 title: What I learned starting a company in 54 hours
 published: true
-tags: [start-ups, hackathon]
-categories: [innovation]
 ---
 
-![startup weekend]({{ "/assets/images/startupweekend/startup_weekend-300x150.png" | absolute_url }}){: .align-right}
+<img class="img-fluid rounded float-right" src="{{ "/img/posts/startupweekend/startup_weekend-300x150.png" | absolute_url }}" alt="Startup Weekend">
 On Friday night, 100 developers, designers and business people came
 together at the [Communitech
 Hub](http://www.communitech.ca/connect/the-communitech-hub/) in
@@ -44,7 +43,7 @@ to work on.  When the dust settled, there were about 10 ideas selected,
 and the crowd self-organized around those ideas to build teams for the
 weekend.
 
-![SWKW]({{ "/assets/images/startupweekend/2013-09-23-14.05.01-300x168.jpg" | absolute_url }}){: .align-right}
+<img class="img-fluid rounded float-right" src="{{ "/img/posts/startupweekend/2013-09-23-14.05.01-300x168.jpg" | absolute_url }}" alt="SWKW">
 
 I joined a team that had merged two related ideas together - the ability
 to more easily find sports fields using annotated mapping, and an easier
@@ -68,7 +67,7 @@ development platform, languages, libraries, databases and interfaces.
  We set up a project in [Trello](https://trello.com/) to organize
 activity, and talked about the high level milestones for the weekend.
 
-![logo2]({{ "/assets/images/startupweekend/logo2-300x122.png" | absolute_url }}){: .align-right}
+<img class="img-fluid rounded" src="{{ "/img/posts/startupweekend/logo2-300x122.png" | absolute_url }}" alt="logo2">
 
 We sketched out a bunch of wire frames in a notebook to illustrate the
 concept.  In all, we had 7 screens that embodied the concept, and
@@ -164,7 +163,7 @@ together.
 
 So what is the problem exactly?
 
-![Home Screen]({{ "/assets/images/startupweekend/1.png" | absolute_url }}){: .align-right}
+![Home Screen]({{ "/img/posts/startupweekend/1.png" | absolute_url }}){: .align-right}
 
 It turns out that organizing a pick-up game is hard, so there aren’t as
 many organizers as there should be. And as a player, finding a quick
@@ -180,7 +179,8 @@ team - share, communicate, trash talk, all on the platform. And after
 the game, keep the conversation going, or even set a re-match. When it’s
 over, the team dissolves and you do it again next time.
 
-![Search Screen]({{ "/assets/images/startupweekend/2.png" | absolute_url }}){: .align-right}
+![Search Screen]({{ "/img/posts/startupweekend/2.png" | absolute_url }}){: .align-right}
+
 We will monetize through advertising partnerships with local sports
 retailers, who can deliver advertising to a qualified and captive
 audience, right in the app. Imagine the power of an ad for soccer gear
@@ -199,7 +199,7 @@ critical mass, we will engage sponsors to increase reach and drive
 revenue.  We estimate this method will drive the virility required to
 reach millions of users within a year.
 
-![View Game]({{ "/assets/images/startupweekend/3.png" | absolute_url }}){: .align-right}
+![View Game]({{ "/img/posts/startupweekend/3.png" | absolute_url }}){: .align-right}
 
 In the future, we have a bigger vision - we’ll help get people outside,
 get healthy, and remember what social used to mean. We think that
@@ -259,7 +259,8 @@ Will we take gameIt to market?  Well, the team sure seems eager to
 continue the work, and we have a huge head start.  We decided to take a
 few days to decompress and then talk about it.
 
-![Team gameIt Photo]({{ "/assets/images/startupweekend/team-300x300.jpg" | absolute_url }}){: .align-right}
+![Team gameIt Photo]({{ "/img/posts/startupweekend/team-300x300.jpg" | absolute_url }}){: .align-right}
+
 Many thanks to [Communitech](http://www.communitech.ca/), [University of
 Waterloo](http://uwaterloo.ca/),
 [BDC](http://www.bdc.ca/en/Pages/home.aspx#.UTUSZTDkvSY) & the other

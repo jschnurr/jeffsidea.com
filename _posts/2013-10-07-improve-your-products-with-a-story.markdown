@@ -1,11 +1,10 @@
 ---
+layout: post
 title: Improve your products with a story
 published: true
-tags: [customer journey mapping, cx, product management]
-categories: [services]
 ---
 
-Sometimes, product quality problems just look like numbers. 
+Sometimes, product quality problems just look like numbers.
 
 As a Customer Support
 professional, you probably don't feel this way, since all of that time
@@ -66,7 +65,7 @@ went through the process, with a heads-up display (HUD) of sorts
 overlayed to show what else was happening that she couldn't see at the
 time.
 
-![Stu]({{ "/assets/images/stu.jpg" | absolute_url }}){: .align-right}
+![Stu]({{ "/img/posts/stu.jpg" | absolute_url }}){: .align-right}
 
 ### Welcome Stu
 
