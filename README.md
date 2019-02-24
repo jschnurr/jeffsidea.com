@@ -1,16 +1,25 @@
 # Local development
 `bundle exec jekyll serve`
 
-# Theme features
-[minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+# Theme
+[startbootstrap-clean-blog-jekyll](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
 
 # Publishing
 - push to repo.  Github pages runs Jekyll and updates the site.
 
 # Formatting
-- excerpts are text up to first empty line by default. To override, add `excerpt` to front matter, or use `excerpt_separator: "<!--more-->"`.
+- subtitle is first 30 words by default, or can be specified with front matter.
 
-# Category taxonomy
-- technology
-- innovation
-- leadership
+# Posting
+Front matter is as follows:
+<pre>
+---
+layout: post
+title: "Post Title"
+subtitle: "This is the post subtitle."
+date: YYYY-MM-DD HH:MM:SS
+background: '/PATH_TO_IMAGE'
+---
+</pre>
+
+Date and slug are inferred from filename in `yyyy-mm-dd-post-slug.markdown` format.
