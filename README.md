@@ -9,6 +9,7 @@
 
 # Formatting
 - subtitle is first 30 words by default, or can be specified with front matter.
+- the theme is built on *bootstrap*, and includes *font-awesome*.  You can use both!
 
 # Posting
 Front matter is as follows:
