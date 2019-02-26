@@ -3,6 +3,8 @@ layout: post
 title: 12 steps to converting a customer crisis into loyalty
 subtitle: "After years of managing critical IT support incidents for the Fortune 500, these are the lessons learned - the key behaviors that drive increased loyalty from a bad situation."
 published: true
+redirect_from:
+  - /2013/09/12-steps-to-converting-a-customer-crisis-into-loyalty/
 ---
 
 ## Your customer is furious.

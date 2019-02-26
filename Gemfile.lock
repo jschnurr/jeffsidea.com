@@ -248,10 +248,10 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-gist
   jekyll-github-metadata
-  jekyll-mentions
   jekyll-optional-front-matter
   jekyll-paginate (~> 1.1.0)
   jekyll-readme-index
+  jekyll-redirect-from
   jekyll-relative-links
   jekyll-seo-tag
   jekyll-sitemap

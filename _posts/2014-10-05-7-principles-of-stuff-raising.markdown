@@ -3,7 +3,9 @@ layout: post
 title: 7 principles of stuff-raising
 subtitle: "They call it an Impact Tour. You board a yellow school bus, which takes you to one of the many places funded in part by the United Way."
 published: true
-background: /img/posts//CedarRedCanoe.jpg
+background: /img/posts/CedarRedCanoe.jpg
+redirect_from:
+  - /2014/10/7-principles-of-stuff-raising/
 ---
 
 <h2> They call it an Impact Tour. </h2>

@@ -1,9 +1,9 @@
 ---
 title: 3 ways that Hadoop can improve customer service
-excerpt: "Like many technology professionals, I've grown up wrangling data with Python scripts, SQL databases and Excel. However, modern datasets make that process feel quaint."
+subtitle: "Like many technology professionals, I've grown up wrangling data with Python scripts, SQL databases and Excel. However, modern datasets make that process feel quaint."
 published: true
-tags: [support, hadoop]
-categories: [technology]
+redirect_from:
+  - /2014/12/3-ways-that-hadoop-can-improve-customer-service/
 ---
 
 I've recently started to learn
@@ -52,7 +52,7 @@ important capabilities to the table:
 1.  **Keep everything.** Hadoop stores files in
     [HDFS](http://www.ibm.com/developerworks/library/wa-introhdfs/) -
     The Hadoop Distributed File System. The benefit of that your files
-    are stored across multiple systems, and you can add more as you grow - 
+    are stored across multiple systems, and you can add more as you grow -
     without slowing the system down. This encourages a "keep
     everything" mentality, where the raw source data is kept forever.
     You can consolidate and summarize it too, if you like - but never

@@ -31,6 +31,7 @@ group :jekyll_plugins do
   gem 'jekyll-readme-index'
   gem 'jekyll-default-layout'
   gem 'jekyll-titles-from-headings'
+  gem 'jekyll-redirect-from'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

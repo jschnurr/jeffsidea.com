@@ -2,6 +2,8 @@
 layout: post
 title: Coding is the new Excel
 published: true
+redirect_from:
+  - /2015/10/coding-is-the-new-excel/
 ---
 
 Data is `everywhere`. We're surrounded by machines that track, measure,

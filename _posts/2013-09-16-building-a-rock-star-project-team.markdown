@@ -2,6 +2,8 @@
 layout: post
 title: Building a rock-star project team
 published: true
+redirect_from:
+  - /2013/09/building-a-rock-star-project-team/
 ---
 
 ![hockeynet]({{ "/img/posts/hockeynet-e1407082102330.gif" | absolute_url }}){: .align-right}

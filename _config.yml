@@ -31,7 +31,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
   # - jekyll-mentions
+  # plugins below are defaults with github anyway, so use them locally too
   - jekyll-coffeescript
   - jekyll-gist
   - jekyll-github-metadata

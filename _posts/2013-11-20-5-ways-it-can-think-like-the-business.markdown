@@ -2,6 +2,8 @@
 layout: post
 title: 5 ways IT can think like the business
 published: true
+redirect_from:
+  - /2013/11/5-ways-it-can-think-like-the-business/
 ---
 
 "What will it take to get you into this new ERP software"? As an IT

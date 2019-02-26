@@ -3,6 +3,8 @@ layout: post
 title: "Is Customer Support helping you build better products?"
 subtitle: "A process for converting customer support demand into features and fixes your customers will love."
 published: true
+redirect_from:
+  - /2015/01/is-customer-support-helping-you-build-better-products/
 ---
 
 <img class="img-fluid" src="{{ "/img/posts/REP-Cycle.png" | absolute_url }}" alt="REP Cycle">

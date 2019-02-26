@@ -2,6 +2,8 @@
 layout: post
 title: What I learned starting a company in 54 hours
 published: true
+redirect_from:
+  - /2013/09/what-i-learned-starting-a-company-in-54-hours/
 ---
 
 <img class="img-fluid rounded float-right" src="{{ "/img/posts/startupweekend/startup_weekend-300x150.png" | absolute_url }}" alt="Startup Weekend">
