@@ -1,48 +1,51 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Site settings
+title: "@jeffsidea"
+description: "Musings on technology and innovation."
+url: "https://jeffsidea.com"
+baseurl: ''
 
-# Theme Settings
-remote_theme             : BlackrockDigital/startbootstrap-clean-blog-jekyll
+google_analytics: 'UA-19292326-1'
+disqus_shortname: 'jeffsidea'
 
-# Site Settings
-title                    : "@jeffsidea"
-email                    : "jschnurr@gmail.com"
-author                   : "Jeff Schnurr"
-description              : "Musings on technology and innovation."
-url                      : "https://jeffsidea.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jschnurr/jeffsidea.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-github_username          : "jschnurr"
-linkedin_username        : "schnurr"
-twitter_username         : "jeffsidea"
+# remote_theme: joshgerdes/jekyll-uno
+remote_theme: matthiaslischka/jekyll-uno
+
+author:
+  name: 'Jeff Schnurr'
+  email: jschnurr@gmail.com
+  twitter_username: jeffsidea
+  github_username:  jschnurr
+  linkedin_username:  schnurr
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
 # Build settings
-markdown:          kramdown
+destination: _site
+paginate: 10
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
 highlighter: rouge
-paginate:          5
-paginate_path:     "/posts/page:num/"
 
-# Plugins
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  # - jekyll-mentions
-  # plugins below are defaults with github anyway, so use them locally too
-  - jekyll-coffeescript
-  - jekyll-gist
-  - jekyll-github-metadata
   - jekyll-paginate
-  - jekyll-relative-links
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-default-layout
-  - jekyll-titles-from-headings
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-redirect-from
 
-jekyll-mentions:
-  base_url: https://twitter.com
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'docker-compose.yml', 'CNAME']

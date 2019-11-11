@@ -4,9 +4,7 @@ title: Improve your products with a story
 published: true
 ---
 
-Sometimes, product quality problems just look like numbers.
-
-As a Customer Support
+Sometimes, product quality problems just look like numbers.  As a Customer Support
 professional, you probably don't feel this way, since all of that time
 immersed with customers in real world scenarios creates a unique and
 powerful perspective that gives meaning to the data.  The engineers,
@@ -65,7 +63,7 @@ went through the process, with a heads-up display (HUD) of sorts
 overlayed to show what else was happening that she couldn't see at the
 time.
 
-![Stu]({{ "/img/posts/stu.jpg" | absolute_url }}){: .align-right}
+![Stu]({{ "/images/posts/stu.jpg" | absolute_url }}){: .align-right}
 
 ### Welcome Stu
 

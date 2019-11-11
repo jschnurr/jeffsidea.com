@@ -1,26 +1,5 @@
-# Local development
-`bundle exec jekyll serve`
+Personal blog [jeffsidea.com](https://jeffsidea.com)
 
-# Theme
-[startbootstrap-clean-blog-jekyll](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
+Based on [Jekyll](https://jekyllrb.com/) and the [Jekyll-Uno theme](https://github.com/joshgerdes/jekyll-uno) linked via [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme).
 
-# Publishing
-- push to repo.  Github pages runs Jekyll and updates the site.
-
-# Formatting
-- subtitle is first 30 words by default, or can be specified with front matter.
-- the theme is built on *bootstrap*, and includes *font-awesome*.  You can use both!
-
-# Posting
-Front matter is as follows:
-<pre>
----
-layout: post
-title: "Post Title"
-subtitle: "This is the post subtitle."
-date: YYYY-MM-DD HH:MM:SS
-background: '/PATH_TO_IMAGE'
----
-</pre>
-
-Date and slug are inferred from filename in `yyyy-mm-dd-post-slug.markdown` format.
+[![Build Status](https://travis-ci.org/jschnurr/jeffsidea.com.svg?branch=master)](https://travis-ci.org/jschnurr/jeffsidea.com)

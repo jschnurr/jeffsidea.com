@@ -6,8 +6,6 @@ redirect_from:
   - /2013/09/building-a-rock-star-project-team/
 ---
 
-![hockeynet]({{ "/img/posts/hockeynet-e1407082102330.gif" | absolute_url }}){: .align-right}
-
 In professional hockey, teams have a General Manager (GM) and a Coach
 charged with one mission - put a team on the ice that is both capable
 and driven to deliver a truly exceptional outcome - the Stanley Cup.
@@ -16,6 +14,8 @@ to arrive at a perfect mix of talent that can produce under a variety of
 possible future scenarios.  Strategies are selected, trade-offs are
 made, deals are cut - and when it comes time to deliver, the outcome is
 broadcast live on national TV.
+
+![hockeynet]({{ "/images/posts/hockeynet-e1407082102330.gif" | absolute_url }}){: .align-right}
 
 In contrast, we often take a vanilla "resource management" approach to
 putting our project teams together.  Too often the project manager is

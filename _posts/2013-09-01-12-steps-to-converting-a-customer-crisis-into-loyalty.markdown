@@ -1,19 +1,16 @@
 ---
 layout: post
 title: 12 steps to converting a customer crisis into loyalty
-subtitle: "After years of managing critical IT support incidents for the Fortune 500, these are the lessons learned - the key behaviors that drive increased loyalty from a bad situation."
 published: true
 redirect_from:
   - /2013/09/12-steps-to-converting-a-customer-crisis-into-loyalty/
 ---
 
-## Your customer is furious.
-
-They have a critical business dependency on your product, and some
+Your customer is furious.  They have a critical business dependency on your product, and some
 glitch has degraded it or taken it completely out of service.   They
 turn to you, and the technical support team, to make things right.  Fix
-it
-**now**.
+it **now**.
+
 If you're in technical support, you've seen this movie before.  Bring in
 the engineers, order pizza, pore over stack traces into the wee hours of
 the morning - work the problem until it's resolved.  For an adrenaline
@@ -21,7 +18,7 @@ junkie, it's a fun ride - but your customer, and your business, won't
 see it that way - there is an erosion of confidence, a risk to the
 account, a blemish on your corporate image.
 
-<img class="img-fluid rounded float-right" src="{{ "/img/posts/frustration1-300x296.gif" | absolute_url }}" alt="frustration1">
+![Frustration]({{ "/images/posts/frustration1-300x296.gif"}})
 
 However, in all crisis there is opportunity.
 

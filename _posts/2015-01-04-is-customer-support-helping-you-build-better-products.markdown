@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Is Customer Support helping you build better products?"
-subtitle: "A process for converting customer support demand into features and fixes your customers will love."
+title: "Is Customer Support helping you build better products??"
 published: true
 redirect_from:
   - /2015/01/is-customer-support-helping-you-build-better-products/
 ---
-
-<img class="img-fluid" src="{{ "/img/posts/REP-Cycle.png" | absolute_url }}" alt="REP Cycle">
 
 Every department needs to think about value creation, and how to make
 the company stronger. In Customer Support, value is created when a
@@ -16,6 +13,8 @@ That effort results in a positive customer experience today, but how
 can it be leveraged to enable a better experience tomorrow? The `REP
 model` (*r*espond, *e*mpower, and *p*revent) provides a way to think about
 Customer Support value creation beyond the interaction.
+
+![REP Cycle]({{ "/images/posts/REP-Cycle.png"}})
 
 The REP model is a process, with the output of each stage becoming the
 input for the next. Flowing through this process are individual

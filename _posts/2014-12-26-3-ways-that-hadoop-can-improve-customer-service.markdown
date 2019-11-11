@@ -1,15 +1,13 @@
 ---
 title: 3 ways that Hadoop can improve customer service
-subtitle: "Like many technology professionals, I've grown up wrangling data with Python scripts, SQL databases and Excel. However, modern datasets make that process feel quaint."
 published: true
 redirect_from:
   - /2014/12/3-ways-that-hadoop-can-improve-customer-service/
 ---
 
 I've recently started to learn
-[Hadoop](http://readwrite.com/2013/05/23/hadoop-what-it-is-and-how-it-works).
-
-Like many technology professionals, I've grown up wrangling data with
+[Hadoop](http://readwrite.com/2013/05/23/hadoop-what-it-is-and-how-it-works). Like many
+technology professionals, I've grown up wrangling data with
 Python scripts, SQL databases and Excel. However, modern datasets make
 that process feel quaint; it's not just that the data is 'big', it's
 increasingly unstructured and dispersed across many systems. It's also
