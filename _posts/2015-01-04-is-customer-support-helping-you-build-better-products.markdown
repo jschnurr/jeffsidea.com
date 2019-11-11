@@ -2,8 +2,6 @@
 layout: post
 title: "Is Customer Support helping you build better products??"
 published: true
-redirect_from:
-  - /2015/01/is-customer-support-helping-you-build-better-products/
 ---
 
 Every department needs to think about value creation, and how to make

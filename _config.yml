@@ -28,7 +28,7 @@ defaults:
 # Build settings
 destination: _site
 paginate: 10
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
 
@@ -46,6 +46,5 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-include-cache
-  - jekyll-redirect-from
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'docker-compose.yml', 'CNAME']

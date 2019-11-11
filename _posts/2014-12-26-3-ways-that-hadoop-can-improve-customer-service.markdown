@@ -1,8 +1,6 @@
 ---
 title: 3 ways that Hadoop can improve customer service
 published: true
-redirect_from:
-  - /2014/12/3-ways-that-hadoop-can-improve-customer-service/
 ---
 
 I've recently started to learn

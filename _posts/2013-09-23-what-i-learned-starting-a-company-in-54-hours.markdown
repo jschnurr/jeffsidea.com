@@ -2,8 +2,6 @@
 layout: post
 title: What I learned starting a company in 54 hours
 published: true
-redirect_from:
-  - /2013/09/what-i-learned-starting-a-company-in-54-hours/
 ---
 
 On Friday night, 100 developers, designers and business people came

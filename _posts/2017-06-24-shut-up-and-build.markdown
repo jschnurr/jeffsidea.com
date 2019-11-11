@@ -2,8 +2,6 @@
 layout: post
 title: Shut up and build!
 published: true
-redirect_from:
-  - /2017/06/shut-up-and-build/
 ---
 
 Do you have a Mr. or Ms. *No* in your company? You know, the one who has an opinion and

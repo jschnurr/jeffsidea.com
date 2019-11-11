@@ -2,8 +2,6 @@
 layout: post
 title: Building a rock-star project team
 published: true
-redirect_from:
-  - /2013/09/building-a-rock-star-project-team/
 ---
 
 In professional hockey, teams have a General Manager (GM) and a Coach

@@ -2,8 +2,6 @@
 layout: post
 title: 12 steps to converting a customer crisis into loyalty
 published: true
-redirect_from:
-  - /2013/09/12-steps-to-converting-a-customer-crisis-into-loyalty/
 ---
 
 Your customer is furious.  They have a critical business dependency on your product, and some
