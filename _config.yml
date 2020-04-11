@@ -47,4 +47,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'docker-compose.yml', 'CNAME']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'Makefile', 'CNAME']
