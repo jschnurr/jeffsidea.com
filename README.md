@@ -8,7 +8,7 @@ Source for the[jeffsidea.com](https://jeffsidea.com) personal blog.
 
 ## Building the Site
 
-The easiest way to build the site locally is to install docker, and then use the following command to run a Jekyll server:
+The easiest way to build the site locally is to use docker, with the following command to run a Jekyll server:
 
 ```bash
 docker run --rm -it \
@@ -36,7 +36,7 @@ docker run --rm -it \
 
 This will generate the `_site` folder.
 
-For convinience, there is a `Makefile` in this repo that defines the following rules:
+For convenience, there is a `Makefile` in this repo that defines the following rules:
 
 - `make build` to build the site
 - `make serve` to build and then serve the site on `http://localhost:4000`
