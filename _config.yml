@@ -7,8 +7,7 @@ baseurl: ''
 google_analytics: 'UA-19292326-1'
 disqus_shortname: 'jeffsidea'
 
-# remote_theme: joshgerdes/jekyll-uno
-remote_theme: matthiaslischka/jekyll-uno
+remote_theme: matthiaslischka/jekyll-uno@a4b04f13f592033b24b016cc12bf668e0b767e52
 
 author:
   name: 'Jeff Schnurr'
